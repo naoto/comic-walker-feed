@@ -1,0 +1,63 @@
+selectors: &selectors
+  item_selector: #detailIndex div.comicIndex-inner
+  item_description_selector: h3
+  item_link_selector: a
+  item_time_selector: comicIndex-date
+  item_title_selector: p.comicIndex-title
+pages:
+  - id: "KS02000041010000"
+    title: であいもん
+    url: https://comic-walker.com/contents/detail/KDCW_KS02000041010000_68/
+    <<: *selectors
+  - id: "AM01100039010000"
+    title: 愚かな天使は悪魔と踊る
+    url: https://comic-walker.com/contents/detail/KDCW_AM01100039010000_68/ 
+    <<: *selectors
+  - id: "AM06000005010000"
+    title: ガヴリールドロップアウト
+    url: https://comic-walker.com/contents/detail/KDCW_AM06000005010000_68/
+    <<: *selectors
+  - id: "EB03202357010000"
+    title: サイレント・ウィッチ
+    url: https://comic-walker.com/contents/detail/KDCW_EB03202357010000_68/
+    <<: *selectors
+  - id: "KS12202422010000"
+    title: とある科学の心理掌握
+    url: https://comic-walker.com/contents/detail/KDCW_KS12202422010000_68/
+    <<: *selectors
+  - id: "AM05200899010000"
+    title: 魔王討伐したあと、目立ちたくないのでギルドマスターになった
+    url: https://comic-walker.com/contents/detail/KDCW_AM05200899010000_68/
+    <<: *selectors
+  - id: "AM05200900010000"
+    title: 比羅坂日菜子
+    url: https://comic-walker.com/contents/detail/KDCW_AM05200900010000_68/
+    <<: *selectors
+  - id: "AM01201792010000"
+    title: 転生王女と天才令嬢の魔法革命
+    url: https://comic-walker.com/contents/detail/KDCW_AM01201792010000_68/
+    <<: *selectors
+  - id: "KS01200352010000"
+    title: 真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました
+    url: https://comic-walker.com/contents/detail/KDCW_KS01200352010000_68/
+    <<: *selectors
+  - id: "MF02202229010000"
+    title: 新・魔法科高校の劣等生 キグナスの乙女たち
+    url: https://comic-walker.com/contents/detail/KDCW_MF02202229010000_68/
+    <<: *selectors
+  - id: "FL00201873010000"
+    title: 聖女の魔力は万能です ～もう一人の聖女～
+    url: https://comic-walker.com/contents/detail/KDCW_FL00201873010000_68/
+    <<: *selectors
+  - id: "AM19201033010000"
+    title: リアデイルの大地にて
+    url: https://comic-walker.com/contents/detail/KDCW_AM19201033010000_68/
+    <<: *selectors
+  - id: "AM01000007010000"
+    title: この美術部には問題がある！
+    url: https://comic-walker.com/contents/detail/KDCW_AM01000007010000_68/
+    <<: *selectors
+  - id: "AM05201897010000"
+    title: Unnamed Memory
+    url: https://comic-walker.com/contents/detail/KDCW_AM05201897010000_68/
+    <<: *selectors
