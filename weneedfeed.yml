@@ -2,7 +2,7 @@ selectors: &selectors
   item_selector: #detailIndex div.comicIndex-inner
   item_description_selector: h3
   item_link_selector: a
-  item_time_selector: comicIndex-date
+  item_time_selector: span.comicIndex-date
   item_title_selector: p.comicIndex-title
 pages:
   - id: "KS02000041010000"
