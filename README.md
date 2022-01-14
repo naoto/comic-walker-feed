@@ -6,5 +6,4 @@ https://comic-walker.com/
 
 use weneedfeed https://github.com/r7kamura/weneedfeed
 
-
 output feed: https://naoto.github.io/comic-walker-feed/
