@@ -1,5 +1,5 @@
 selectors: &selectors
-  item_selector: div.comicIndex-inner
+  item_selector: div#detailIndex
   item_description_selector: h3
   item_link_selector: div.comicIndex-rightBox p.btn-detailLink a
   item_time_selector: span.comicIndex-date
