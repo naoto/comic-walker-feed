@@ -1,7 +1,7 @@
 selectors: &selectors
-  item_selector: #detailIndex div.comicIndex-inner
+  item_selector: div.comicIndex-inner
   item_description_selector: h3
-  item_link_selector: a
+  item_link_selector: div.comicIndex-rightBox p.btn-detailLink a
   item_time_selector: span.comicIndex-date
   item_title_selector: p.comicIndex-title
 pages:
