@@ -61,3 +61,7 @@ pages:
     title: Unnamed Memory
     url: https://comic-walker.com/contents/detail/KDCW_AM05201897010000_68/
     <<: *selectors
+  - id: "AM19202348010000"
+    title: 王都の外れの錬金術師
+    url: https://comic-walker.com/contents/detail/KDCW_AM19202348010000_68/
+    <<: *selectors
