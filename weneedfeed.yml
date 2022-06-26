@@ -69,3 +69,7 @@ pages:
     title: 魔法世界の受付嬢になりたいです
     url: https://comic-walker.com/contents/detail/KDCW_FL00200866010000_68/
     <<: *selectors
+  - id: "FS01200541010000_68"
+    title: 乙女ゲー世界はモブに厳しい世界です
+    url: https://comic-walker.com/contents/detail/KDCW_FS01200541010000_68/
+    <<: *selectors
