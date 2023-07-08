@@ -77,3 +77,7 @@ pages:
     title: 乙女ゲー世界はモブに厳しい世界です
     url: https://comic-walker.com/contents/detail/KDCW_FS01200541010000_68/
     <<: *selectors
+  - id: "KDCW_MF00000330010000_68"
+    title: 目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい
+    url: https://comic-walker.com/contents/detail/KDCW_MF00000330010000_68/
+    <<: *selectors
